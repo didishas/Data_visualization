@@ -117,4 +117,8 @@ Hereby follow some previous questions we was clarified by the main results from 
 | Github | Merging datasets from a ***forked repository*** managed by The Project Manager|
 
 Different teams worked on a merged dataset to be used by all the team. 
+<<<<<<< HEAD
 On the first day (21/10/20) keras team splitted the sources by columns . Each members having a set 7 columns to analyze. After the distribution of tasks was commonly agreed, the Data formatting and values cleaning in one accord by each member.
+=======
+On the first day (21/10/20) keras team splitted the sources by columns . Each members having a set 7 columns to analyze. After the distribution of tasks was commonly agreed, the Data formatting and values cleaning in one accord by each member.
+>>>>>>> upstream/master
