@@ -75,8 +75,13 @@ Hereby follow some previous questions we was clarified by the main results from 
 
  (needed to be discussed):
 
-+ What is the correlation between variable/target ? (Why?) 
-+ What is the correlation between the variables/variables ? (Why?) 
++ Correlation between variable/target (Why?) 
++ Correlation between the variables/variables ? (Why?)
+These questions were answered by This correlation graph:
+
+![image](./graphs/area_cor.png) 
+
+
 + Which variables have the greatest influence on the target ? 
 + Which variables have the least influence on the target ? 
 + How many qualitative and quantitative variable is there ? 
@@ -86,7 +91,6 @@ Hereby follow some previous questions we was clarified by the main results from 
 
 - According to the Graph below:
   Are there any outliers? If yes, which ones and why? Which variables would you delete and why ? In your opinion, which 5 variables are the most important and why?
-(Graph 1)
 
 
 - The Second Graph tells us that:
